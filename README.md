@@ -3,12 +3,13 @@
 [An End-to-End Compression Framework Based on Convolutional Neural Networks] (https://arxiv.org/pdf/1708.00838.pdf)
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ppooiiuuyh/SR_SRDenseNet_tensorflow/master/asset/comrecmodel.png" width="600">
+<img src="https://raw.githubusercontent.com/ppooiiuuyh/ComRecCNN/master/asset/comrecmodel.png" width="600">
 </p>
+
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/ppooiiuuyh/SR_SRDenseNet_tensorflow/master/asset/comrecpaperresult.png" width="600">
+<img src="https://raw.githubusercontent.com/ppooiiuuyh/ComRecCNN/master/asset/comrecpaperresult.png" width="600">
 </p>
 
 ## Prerequisites
